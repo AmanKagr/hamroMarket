@@ -1,1 +1,1 @@
-New Project based on Django.
+Created a new project based on Django.
